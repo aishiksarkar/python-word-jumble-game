@@ -1,0 +1,7 @@
+rat
+car
+cat
+bat
+monkey
+mom
+dad
