@@ -1,0 +1,6 @@
+mobile
+table
+chair
+hospital
+stick
+truck
